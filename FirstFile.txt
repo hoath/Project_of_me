@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Hello!
-kho chiu a nha
-=======
-Hello!
->>>>>>> parent of f7b956a... Add
